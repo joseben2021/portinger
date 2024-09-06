@@ -1,0 +1,26 @@
+body{
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.profile{
+    width: 150px;
+    background-image: linear-gradient(wheat ,violet,pink);
+}
+
+.card{
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    background: #ddebf8;
+    border-bottom:6px solid #d8cefe;
+    color: #2b2829;
+
+}
+
+.line{
+    border: 1px dotted blue;
+}
